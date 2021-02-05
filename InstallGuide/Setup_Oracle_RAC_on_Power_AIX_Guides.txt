@@ -1,1 +1,0 @@
-Setup_Oracle_RAC_11gR2_on_Power_AIX_Guides
